@@ -1,3 +1,5 @@
+# Club-wide Documentation
+
 # WPI HPRC EnP
 
 <details open>
@@ -40,3 +42,4 @@
 |----|-----------|
 
 </details>
+
