@@ -27,7 +27,7 @@
   
 |Repo|Description|
 |----|-----------|
-|[state-machine](https://github.com/WPI-HPRC/state-machine)|State machine code for flight computer (Mars board) to be shared between subteams for IREC 2025|
+|[boilerplate](https://github.com/WPI-HPRC/boilerplate)|State Machine, Sensor, and Time code for flight computer (Mars board)|
 
 </details>
 
