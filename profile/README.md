@@ -33,6 +33,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 |----|-----------|
 |[boilerplate](https://github.com/WPI-HPRC/boilerplate)|State Machine, Sensor, and Time code for flight computer (Mars board)|
 |[xbee](https://github.com/WPI-HPRC/xbee)|Code for the xbee, sending and receiving data|
+|[ekf](https://github.com/WPI-HPRC/ekf-implementation)|Code for the EKF|
 
 </details>
 
