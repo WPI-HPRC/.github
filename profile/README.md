@@ -3,7 +3,7 @@
 
 Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
-# HELLO SEPTEMBER 10 2026 PEOPLE
+# HELLO SEPTEMBER 10 2025 PEOPLE
 # SAY HI IF YOU SEE THIS
 
 # WPI HPRC EnP
