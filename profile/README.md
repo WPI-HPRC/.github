@@ -9,6 +9,9 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 <summary>
 
+## 2026
+In Progress :D
+
 ## 2025
   
 </summary>
