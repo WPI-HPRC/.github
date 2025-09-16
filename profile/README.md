@@ -3,9 +3,6 @@
 
 Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
-# HELLO SEPTEMBER 10 2025 PEOPLE
-# SAY HI IF YOU SEE THIS
-
 # WPI HPRC EnP
 
 <details open>
@@ -13,7 +10,11 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 <summary>
 
 ## 2026
-In Progress :D
+
+|Repo|Description|
+|----|-----------|
+|[rocket-2025](https://github.com/wpi-hprc/rocket-2025)|Main code for the flight computer (Mars board) on the rocket for IREC 2025|
+|[matlab-flightsim-2025](https://github.com/WPI-HPRC/matlab-flightsim-2025)|Matlab simulation code for all things GNC
 
 ## 2025
   
