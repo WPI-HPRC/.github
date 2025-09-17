@@ -14,7 +14,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 |Repo|Description|
 |----|-----------|
 |[canards-2026](https://github.com/WPI-HPRC/canards-2026)|Main code for the flight computer (Mars board) on the canards rocket|
-|[matlab-flightsim-2025](https://github.com/WPI-HPRC/matlab-flightsim-2025)|Matlab simulation code for all things GNC
+|[matlab-flightsim-2026](https://github.com/WPI-HPRC/matlab-flightsim-2026)|Matlab simulation code for all things GNC
 
 ## 2025
   
