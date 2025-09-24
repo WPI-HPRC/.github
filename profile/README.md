@@ -11,21 +11,14 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 ## 2026
 
+</summary>
+
 |Repo|Description|
 |----|-----------|
 |[canards-2026](https://github.com/WPI-HPRC/canards-2026)|Main code for the flight computer (Mars board) on the canards rocket|
-|[matlab-flightsim-2026](https://github.com/WPI-HPRC/matlab-flightsim-2026)|Matlab simulation code for all things GNC
+|[matlab-flightsim-2026](https://github.com/WPI-HPRC/matlab-flightsim-2026)|Matlab simulation code for all things GNC|
+|[rocket-base-2026](https://github.com/WPI-HPRC/rocket-base-2026)|Base Flight Software code. Contains implementations of the systems common to all of our projects.|
 
-## 2025
-  
-</summary>
-  
-|Repo|Description|
-|----|-----------|
-|[rocket-2025](https://github.com/wpi-hprc/rocket-2025)|Main code for the flight computer (Mars board) on the rocket for IREC 2025|
-|[payload-2025](https://github.com/wpi-hprc/payload-2025)|Main code for the flight computer (Mars board) on the payload for IREC 2025|
-|[groundstation-2025](https://github.com/WPI-HPRC/groundstation-2025)|Ground station code for IREC 2025|
-  
 </details>
 
 <details open>
@@ -55,5 +48,30 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 |Repo|Description|
 |----|-----------|
 
+</details>
+
+<details closed>
+
+<summary>
+
+## Legacy
+
+</summary>
+
+<details open>
+
+<summary>
+
+## 2025
+
+</summary>
+  
+|Repo|Description|
+|----|-----------|
+|[rocket-2025](https://github.com/wpi-hprc/rocket-2025)|Main code for the flight computer (Mars board) on the rocket for IREC 2025|
+|[payload-2025](https://github.com/wpi-hprc/payload-2025)|Main code for the flight computer (Mars board) on the payload for IREC 2025|
+|[groundstation-2025](https://github.com/WPI-HPRC/groundstation-2025)|Ground station code for IREC 2025|
+  
+</details>
 </details>
 
