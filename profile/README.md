@@ -51,7 +51,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 </details>
 
-<details closed>
+<details open>
 
 <summary>
 
@@ -59,7 +59,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 </summary>
 
-<details open>
+<details closed>
 
 <summary>
 
@@ -78,7 +78,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
   
 </details>
 
-<details open>
+<details closed>
 
 <summary>
 
