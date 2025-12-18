@@ -15,9 +15,11 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 |Repo|Description|
 |----|-----------|
-|[canards-2026](https://github.com/WPI-HPRC/canards-2026)|Main code for the flight computer (Mars board) on the canards rocket|
-|[matlab-flightsim-2026](https://github.com/WPI-HPRC/matlab-flightsim-2026)|Matlab simulation code for all things GNC|
+|[canards-2026](https://github.com/WPI-HPRC/canards-2026)|Main code for the flight computer (Mars board) on the canards rocket.|
+|[matlab-flightsim-2026](https://github.com/WPI-HPRC/matlab-flightsim-2026)|Matlab simulation code for all things GNC.|
+|[ekf-implementation](https://github.com/WPI-HPRC/ekf-implementation)|C++ implementation of the Extended Kalman Filter used for state estimation.|
 |[rocket-base-2026](https://github.com/WPI-HPRC/rocket-base-2026)|Base Flight Software code. Contains implementations of the systems common to all of our projects.|
+|[payload-2026](https://github.com/WPI-HPRC/payload-2026)|Software for the 2026 Rover payload.|
 |[groundstation-2026](https://github.com/WPI-HPRC/groundstation-2026)|Ground Station frontend and backend code. |
 
 </details>
