@@ -9,7 +9,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 <summary>
 
-## 2026
+## Current Year (2026)
 
 </summary>
 
@@ -51,22 +51,19 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 </details>
 
-<details open>
-
-<summary>
 
 ## Legacy
 
-</summary>
+The following repositories are archived from previous years.
 
 <details closed>
 
 <summary>
-
-## 2025
+  
+### 2025
 
 </summary>
-  
+
 |Repo|Description|
 |----|-----------|
 |[rocket-2025](https://github.com/wpi-hprc/rocket-2025)|Main code for the flight computer (Mars board) on the rocket for IREC 2025.|
@@ -75,14 +72,14 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 |[groundstation-TrackerController-2025](https://github.com/WPI-HPRC/groundstation-TrackerController-2025)|Code for controlling the active antenna tracker for IREC 2025.|
 |[xbee](https://github.com/WPI-HPRC/xbee)|Code for the XBee radio module, sending and receiving data on an embedded device.|
 |[telemetry-2025](https://github.com/WPI-HPRC/telemetry-2025)|Google Protobuf API definitions for 2025.|
-  
+
 </details>
 
 <details closed>
 
 <summary>
 
-## 2024
+### 2024
 
 </summary>
   
@@ -92,8 +89,6 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 |[payload-2024](https://github.com/WPI-HPRC/payload-2024)|Code for the payload for IREC 2024.|
 |[groundstation-frontend-2024](https://github.com/WPI-HPRC/groundstation-frontend-2024)|Ground station frontend code for IREC 2024.|
 |[groundstation-backend-2024](https://github.com/WPI-HPRC/xbee-backend-cpp-2024)|Ground station backend code for IREC 2024.|
-
-</details>
 
 </details>
 
