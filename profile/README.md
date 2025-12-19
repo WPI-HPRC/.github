@@ -5,8 +5,6 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 # WPI HPRC EnP
   
-# Repository Index
-
 <details open>
 
 <summary>
@@ -68,6 +66,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 </details>
 
+# Repository Index
 <details closed>
 
 <summary>
