@@ -15,7 +15,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 
 |Repo|Description|
 |----|-----------|
-|[canards-2026](https://github.com/WPI-HPRC/canards-2026)|Main code for the flight computer (Mars board) on the canards rocket.|
+|[canard_lqr_controller](https://github.com/WPI-HPRC/canard_lqr_controller)|Main code for the controller (Mars board) on the canards rocket.|
 |[matlab-flightsim-2026](https://github.com/WPI-HPRC/matlab-flightsim-2026)|Matlab simulation code for all things GNC.|
 |[rocket-base-2026](https://github.com/WPI-HPRC/rocket-base-2026)|Base Flight Software code. Contains implementations of the systems common to all of our projects.|
 |[payload-2026](https://github.com/WPI-HPRC/payload-2026)|Software for the 2026 Rover payload.|
