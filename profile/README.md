@@ -20,7 +20,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 |[rocket-base-2026](https://github.com/WPI-HPRC/rocket-base-2026)|Base Flight Software code. Contains implementations of the systems common to all of our projects.|
 |[payload-2026](https://github.com/WPI-HPRC/payload-2026)|Software for the 2026 Rover payload.|
 |[groundstation-2026](https://github.com/WPI-HPRC/groundstation-2026)|Ground Station frontend and backend code. |
-|[Q-MEKF-implementation]([https://github.com/WPI-HPRC/groundstation-2026](https://github.com/WPI-HPRC/ekf-implementation/tree/QMEKFM-implementation))|Script to test Q-MEKF for pose estimation|
+|[Q-MEKF-implementation](https://github.com/WPI-HPRC/ekf-implementation/tree/QMEKFM-implementation)|Script to test Q-MEKF for pose estimation|
 
 </details>
 
