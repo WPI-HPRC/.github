@@ -35,7 +35,7 @@ Edit it [here](https://github.com/WPI-HPRC/hprc_wiki).
 |Repo|Description|
 |----|-----------|
 |[boilerplate](https://github.com/WPI-HPRC/boilerplate)|State Machine, Sensor, and Time code for flight computer (Mars board).|
-|[ekf-implementation](https://github.com/WPI-HPRC/ekf-implementation)|C++ implementation of the Extended Kalman Filter used for state estimation.|
+|[qmekf-lib](https://github.com/WPI-HPRC/qmekf-lib)|C++ implementation of the Extended Kalman Filter used for state estimation.|
 
 </details>
 
